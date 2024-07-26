@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Game Development
 - 🌱 I’m currently learning ...GDScript
 - 💞️ I’m looking to collaborate on ...Game Programming
-- 📫 How to reach me ...Pythonsrizvi@gmai.com
+- 📫 How to reach me ...Pythonsrizvi@gmail.com
 - 😄 Pronouns: ...Good One
 - ⚡ Fun fact: ...laughter
 
